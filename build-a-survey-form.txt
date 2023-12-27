@@ -1,0 +1,47 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<link rel="stylesheet" href="styles.css"></link>
+  </head>
+  <body>
+   <h1 id="title">freeCodeCamp Survey Form</h1>
+    <p id="description">Thank you for taking the time to help us improve the platform</p>
+    <form id="survey-form">
+      <input required id="name" type="text" placeholder="name"></input>
+      <input required id="email" type="email" placeholder="email"></input>
+      <input id="number" type="number" min="0" max="10" placeholder="number"></input>
+      <label id="name-label">name</label>
+      <label id="email-label">email</label>
+      <label id="number-label">number</label>
+      <select id="dropdown">
+        <option value="game1">WoW</option>
+        <option value="game2">LoL</option>
+      </select>
+      <select id="dropdown">
+        <option value="game1">WoW</option>
+        <option value="game2">LoL</option>
+      </select>
+      <input type="radio" id="wow" name="fav-game" value="WOW">
+<label for="wow">WoW</label><br>
+<input type="radio" id="LoL" name="fav-game" value="LOL">
+<label for="lol">LoL</label><br>
+<input type="checkbox" id="game1" name="game1" value="WoW">
+<label for="game1"> I have WoW</label><br>
+<input type="checkbox" id="game2" name="game2" value="LoL">
+<label for="game2"> I have LoL</label><br>
+<textarea id="games" name="games" rows="5" cols="50"></textarea>
+<button id="submit" type="submit">Submit</button>
+    </form> 
+  </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+** end of undefined **
+
