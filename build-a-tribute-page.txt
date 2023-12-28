@@ -1,0 +1,35 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta="UTF-8">
+    <link rel="stylesheet" href="styles.css"></link>
+  </head>
+  <body>
+<main id="main">
+  <title id="title">Lasagne Saves Lives</title>
+  <h1 id="tribute-info">The Lasagna Who Saved a Billion Lives</h1>
+   <div id="img-div">
+    <div id="img-caption">Oskar</p>
+     <img id="image" src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg">
+  </div>
+  <div id="tribute-info">Picture of Lasagna That Saves a billion Lives
+    <a id="tribute-link" href="https://google.com" target="_blank"></a>
+  </div>
+</main>
+  </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+#image {
+ display: block;
+ max-width: 100%;
+ height: auto;
+}
+
+** end of undefined **
+
